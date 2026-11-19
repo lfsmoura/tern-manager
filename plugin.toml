@@ -1,0 +1,12 @@
+schema = 1
+id = "session-manager"
+name = "Session Manager"
+version = "0.1.0"
+description = "Every open agent session as a card: its purpose, an STE100 status, whether it needs you and why, and what is left before you close it."
+icon = "list"
+host = "host.luau"
+window = "window.luau"
+
+[[blocks]]
+id = "board"
+title = "Sessions"
